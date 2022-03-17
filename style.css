@@ -1,0 +1,12 @@
+h1{
+    color: rgb(170, 70, 70);
+
+}
+#btn {
+    background-color: rgb(94, 116, 43);
+    color: aliceblue;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    font-size: 10px;
+}
